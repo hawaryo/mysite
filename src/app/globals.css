@@ -1,3 +1,11 @@
 * {
   box-sizing: border-box;
 }
+
+body {
+  height: 100vh;
+  background-color: #FBF8F2;
+  font-family: 'Inter', sans-serif;
+  max-width: 1440px;
+  margin: auto;
+}
